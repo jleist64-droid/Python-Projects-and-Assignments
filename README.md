@@ -1,27 +1,19 @@
 # Python-Projects-and-Assignments
 A collection of Python projects and exercises focused on programming fundamentals and data structures. It was built through coursework and independent study in order to demonstrate hands-on experience and problem-solving skills.
 
-Table of Contents
+**Table of Contents:**
 
-Lab 1 - Python Basics
+- Lab 1 - Python Basics
+- Lab 2 - List Operations and Inputs
+- Lab 3 - Interactive Ordering System
+- Lab 4 - Data Analysis | Dictionaries
+- Lab 5 - Functions and Loops
+- Practice With Conditionals
+- Pricing Calculator
+- Python Fundamentals Practice
+- Python Operators and Input Handling
+- Project Descriptions
 
-Lab 2 - List Operations and Inputs
-
-Lab 3 - Interactive Ordering System
-
-Lab 4 - Data Analysis | Dictionaries
-
-Lab 5 - Functions and Loops
-
-Practice With Conditionals
-
-Pricing Calculator
-
-Python Fundamentals Practice
-
-Python Operators and Input Handling
-
-Project Descriptions
 Lab 1 - Python Basics
 
 Introduces Python syntax, variables, basic data types, and simple operations.
