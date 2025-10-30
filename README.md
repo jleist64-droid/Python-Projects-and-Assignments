@@ -1,7 +1,7 @@
 # Python Projects and Assignments
 A collection of Python projects and exercises focused on programming fundamentals and data structures. It was built through coursework and independent study in order to demonstrate hands-on experience and problem-solving skills.
 
-**Projects**
+# Projects
 
 - **Lab 1 - Python Basics:** Introduces Python syntax, variables, basic data types, and simple operations.
 - **Lab 2 - List Operations and Inputs:** Practice with Python lists, indexing, slicing, and user input handling.
@@ -12,3 +12,15 @@ A collection of Python projects and exercises focused on programming fundamental
 - **Pricing Calculator:** Develops a calculator for product pricing, including markup tiers, shipping, and sales tax, with full error handling for invalid input.
 - **Python Fundamentals Practice:** A collection of miscellaneous practice exercises reinforcing Python basics, operators, and workflow design.
 - **Python Operators and Input Handling:** Exercises focusing on arithmetic, logical, and comparison operators, combined with input validation.
+
+## Programs Used
+
+- CodePen: HTML / CSS / JS
+
+
+## Author
+
+**Joshua Leist**  
+IT Support Professional
+[GitHub Profile]
+https://github.com/jleist64-droid
