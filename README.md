@@ -15,7 +15,7 @@ A collection of Python projects and exercises focused on programming fundamental
 
 ## Programs Used
 
-- CodePen: HTML / CSS / JS
+- Anaconda Jupyter Labs: Python
 
 
 ## Author
