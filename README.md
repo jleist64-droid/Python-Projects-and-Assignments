@@ -22,4 +22,4 @@ A collection of Python projects and exercises focused on programming fundamental
 
 **Joshua Leist**  
 IT Support Professional
-https://github.com/jleist64-droid
+https://github.com/Joshua-Leist-Git
